@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Jason Au Inc. All rights reserved.',
 
   // open graph metadata (optional)
-  // description: '',
+  // description: 'Take note of my wonderful life!',
 
   // social usernames (optional)
   // twitter: '',
