@@ -18,7 +18,7 @@ export default siteConfig({
 
   // social usernames (optional)
   // twitter: '',
-  github: 'jasonau2003',
+  // github: 'jasonau2003',
   // linkedin: '',
 
   // default notion icon and cover images for site-wide consistency (optional)
